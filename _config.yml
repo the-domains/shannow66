@@ -1,4 +1,3 @@
-layout_spectrum: 0.5391560872085392
 typography_spectrum: 0.9599820347502828
 color:
   brandStrength: 0.519142170669511
@@ -11,4 +10,9 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.5391560872085392
+author:
+  name: Declanc Comeford
+  email: shannow66@hotmail.com
 name: Shannow66
+title: Simple but effective.
