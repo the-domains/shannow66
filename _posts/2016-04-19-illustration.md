@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-17T17:06:14.263Z'
+datePublished: '2016-07-17T18:16:10.838Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
 isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
@@ -24,7 +24,7 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-dateModified: '2016-07-17T17:06:14.163Z'
+dateModified: '2016-07-17T17:06:34.889Z'
 title: Shannow66 - Marley Park
 app_links: []
 publisher:
